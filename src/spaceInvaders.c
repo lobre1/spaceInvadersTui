@@ -5,7 +5,7 @@
 #include <math.h>
 #include <time.h>
 
-//General Game
+//General 
 #define KILLHEIGHT 34
 #define GAMETIME 1000
 //Player
